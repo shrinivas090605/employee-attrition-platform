@@ -139,7 +139,7 @@
       "Recall": 0.78,
       "F1": 0.52,
       "ROC-AUC": 0.853,
-      "CV AUC (train)": 0.808
+      "CV AUC (train)": 0.827
     },
     "Random Forest": {
       "Accuracy": 0.861,
