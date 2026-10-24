@@ -1,4 +1,4 @@
-# Employee Attrition Analytics Platform (deployed without Watson)
+# Employee Attrition Analytics Platform 
 
 | Part | Tool | File |
 |---|---|---|
